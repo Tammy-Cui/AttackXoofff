@@ -7,7 +7,8 @@ There are four files of practical attacks:
 *PracticalAttack-TwoRound-Xoofff(linearization).py
 *PracticalAttack-ThreeRound-Xoofff.py
 
-All practical attacks on Xoofff are aimed to recover the key under any random secret true key.
+All practical attacks on Xoofff are aimed to recover the key under any random secret true key. None of these programs is optimized for speed, they are for verification purposes
+only.
 
 File 1: PracticalAttack-OneRound-Xoofff.py
 
